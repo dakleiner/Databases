@@ -1,0 +1,4 @@
+username,password,first_name,last_name,employee_number,role
+admin,admin123,System,Administrator,EMP001,admin
+jdoe,password123,John,Doe,EMP002,user
+asmith,secure456,Alice,Smith,EMP003,user

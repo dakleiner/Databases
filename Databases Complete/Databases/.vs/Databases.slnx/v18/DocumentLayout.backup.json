@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dan\\source\\repos\\Databases\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0E850E-770D-47CA-9897-E17B3770E202}|Databases.vcxproj|C:\\Users\\dan\\source\\repos\\Databases\\InvestmentSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D0E850E-770D-47CA-9897-E17B3770E202}|Databases.vcxproj|solutionrelative:InvestmentSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0E850E-770D-47CA-9897-E17B3770E202}|Databases.vcxproj|C:\\Users\\dan\\source\\repos\\Databases\\Database.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D0E850E-770D-47CA-9897-E17B3770E202}|Databases.vcxproj|solutionrelative:Database.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0E850E-770D-47CA-9897-E17B3770E202}|Databases.vcxproj|C:\\Users\\dan\\source\\repos\\Databases\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D0E850E-770D-47CA-9897-E17B3770E202}|Databases.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0E850E-770D-47CA-9897-E17B3770E202}|Databases.vcxproj|C:\\Users\\dan\\source\\repos\\Databases\\Database.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D0E850E-770D-47CA-9897-E17B3770E202}|Databases.vcxproj|solutionrelative:Database.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\dan\\source\\repos\\Databases\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\dan\\source\\repos\\Databases\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-09T22:55:33.834Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Database.h",
+              "DocumentMoniker": "C:\\Users\\dan\\source\\repos\\Databases\\Database.h",
+              "RelativeDocumentMoniker": "Database.h",
+              "ToolTip": "C:\\Users\\dan\\source\\repos\\Databases\\Database.h",
+              "RelativeToolTip": "Database.h",
+              "ViewState": "AgIAAFgAAAAAAAAAAAApwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-10T03:51:14.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Database.cpp",
+              "DocumentMoniker": "C:\\Users\\dan\\source\\repos\\Databases\\Database.cpp",
+              "RelativeDocumentMoniker": "Database.cpp",
+              "ToolTip": "C:\\Users\\dan\\source\\repos\\Databases\\Database.cpp",
+              "RelativeToolTip": "Database.cpp",
+              "ViewState": "AgIAAI0BAAAAAAAAAAAewKUBAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-10T03:43:27.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvestmentSystem.cpp",
+              "DocumentMoniker": "C:\\Users\\dan\\source\\repos\\Databases\\InvestmentSystem.cpp",
+              "RelativeDocumentMoniker": "InvestmentSystem.cpp",
+              "ToolTip": "C:\\Users\\dan\\source\\repos\\Databases\\InvestmentSystem.cpp",
+              "RelativeToolTip": "InvestmentSystem.cpp",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAACIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-10T03:42:36.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
